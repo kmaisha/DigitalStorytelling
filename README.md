@@ -1,4 +1,2 @@
 # DigitalStorytelling
  Interactive Game
- 
- test

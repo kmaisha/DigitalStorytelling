@@ -8,7 +8,7 @@ public class ClickToNewScene : MonoBehaviour
     //public GameObject buttonClicking;
     public int sceneNumber; //number of scene you want to go to
 
-    void ClickNewScene()
+    public void ClickNewScene()
     {
         SceneManager.LoadScene(sceneNumber);
     }

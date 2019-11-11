@@ -7,6 +7,7 @@ public class StartButton : MonoBehaviour
 {
     public void ClickStart()
     {
+        GemCount.gems = 50;
         SceneManager.LoadScene(1);
     }
 

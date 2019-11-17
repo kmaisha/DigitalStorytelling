@@ -7,13 +7,14 @@ public class ClickNextDialogueSound : MonoBehaviour
     //public GameObject buttonClicking;
     public GameObject pastText; // group of text/buttons that you have read - will disappear
     public GameObject newText; // group of text/buttons that is next - will appear
-    public AudioClip sound; // sound effect to play when transitioning
+    public GameObject sound; // sound effect to play when transitioning
 
     public void ClickChoiceSound()
     {
         newText.SetActive(true); // makes new text/buttons appear
         pastText.SetActive(false); // makes old text/buttons disappear
-        AudioSource.PlayClipAtPoint(sound, transform.position);
+        sound.SetActive(true); // makes gameobject with audio attached become active, set play on awake: will play sound effect
+        //AudioSource.PlayClipAtPoint(sound, transform.position);
     }
 
     // Start is called before the first frame update

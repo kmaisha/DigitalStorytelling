@@ -6,7 +6,7 @@ public class ClickGemChange : MonoBehaviour
 {
     public GameObject pastText; // group of text/buttons that you have read - will disappear
     public GameObject newText; // group of text/buttons that is next - will appear
-    public AudioClip sound; // sound effect to play when transitioning
+    public GameObject sound; // sound effect to play when transitioning
     public int amount; // amount of gems added or taken (taken will be negative)
 
     // Start is called before the first frame update
@@ -24,8 +24,9 @@ public class ClickGemChange : MonoBehaviour
     public void GemChange()
     {
         newText.SetActive(true); // makes new text/buttons appear
-        pastText.SetActive(false); // makes old text/buttons disappear
-        AudioSource.PlayClipAtPoint(sound, transform.position);
+        pastText.SetActive(false); // makes old text/buttons disappear                             
+        sound.SetActive(true); // makes new text/buttons appear
         GemCount.gems += amount;
+        Debug.Log(GemCount.gems);
     }
 }

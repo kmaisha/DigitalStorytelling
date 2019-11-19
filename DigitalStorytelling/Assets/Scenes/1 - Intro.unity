@@ -119,11 +119,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 831390065}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -243,6 +238,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -709,11 +709,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2143546510}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -833,6 +828,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -874,11 +874,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1724579838}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -999,6 +994,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.80586
       objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
+      objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1039,11 +1039,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2116050117}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: Dialogue 1B Button
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1164,6 +1159,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.80586
       objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: Dialogue 1B Button
+      objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1251,11 +1251,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1781062464}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1375,6 +1370,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -1606,11 +1606,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 490600605}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1730,6 +1725,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -1942,11 +1942,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 965106235}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2067,6 +2062,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.80586
       objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
+      objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -2152,11 +2152,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2116050117}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: Dialogue 1C Button
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2276,6 +2271,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: Dialogue 1C Button
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -2840,11 +2840,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2116050117}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: Dialogue 1A Button
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2964,6 +2959,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.80586
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: Dialogue 1A Button
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
@@ -3563,6 +3563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GEM COUNTER
       objectReference: {fileID: 0}
+    - target: {fileID: 723262299349536188, guid: d30bc06381fe140ee82c1f2c8f88ca69,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 723262299349536189, guid: d30bc06381fe140ee82c1f2c8f88ca69,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3749,11 +3754,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 779807007}
     m_Modifications:
-    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
-        type: 3}
-      propertyPath: m_Name
-      value: AdvanceButton
-      objectReference: {fileID: 0}
     - target: {fileID: 3260082816921875178, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3858,6 +3858,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7541196354450568318, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvanceButton
       objectReference: {fileID: 0}
     - target: {fileID: 4075831495349672547, guid: 31b734f79bd0c4e19b86fe7cfa95a0aa,
         type: 3}

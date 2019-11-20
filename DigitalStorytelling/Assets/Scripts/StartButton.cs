@@ -8,6 +8,8 @@ public class StartButton : MonoBehaviour
     public void ClickStart()
     {
         GemCount.gems = 50;
+        FishCounter.fish = 0;
+        GemChange2A.traded = false;
         SceneManager.LoadScene(1);
     }
 

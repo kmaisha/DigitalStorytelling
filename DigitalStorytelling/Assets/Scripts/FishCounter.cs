@@ -18,6 +18,14 @@ public class FishCounter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(fish != 0)
+        {
+            fishCount.SetActive(true);
+        }else if (fish == 0)
+        {
+            fishCount.SetActive(false);
+        }
+
         fishText.gameObject.GetComponent<Text>().text = ("" + fish);
     }
 }

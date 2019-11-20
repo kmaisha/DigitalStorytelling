@@ -48,57 +48,54 @@ EditorBuildSettings:
     path: Assets/Scenes/13 - Incident 3C.unity
     guid: 3864c0f803f944cdba2c3f307655aa94
   - enabled: 1
-    path: Assets/Scenes/14 - End of Arion Dialogue.unity
-    guid: 79025bac28cee4324891357cb8fd725f
-  - enabled: 1
-    path: Assets/Scenes/15 - Travel 6AB 7AB.unity
+    path: Assets/Scenes/14 - Travel 6AB 7AB.unity
     guid: 59c19560271fa4e78bf5b94b06377753
   - enabled: 1
-    path: Assets/Scenes/16 - Merchant Shop.unity
+    path: Assets/Scenes/15 - Merchant Shop.unity
     guid: 579709d8b33c24d75b43faa7bb167a35
   - enabled: 1
-    path: Assets/Scenes/17 - Problem 2.unity
+    path: Assets/Scenes/16 - Problem 2.unity
     guid: 40dbde92464a34c1497153bdf93488fb
   - enabled: 1
-    path: Assets/Scenes/18 - Arion Saves You.unity
+    path: Assets/Scenes/17 - Arion Saves You.unity
     guid: 12b081f950b4e470bad4df96f33374b0
   - enabled: 1
-    path: Assets/Scenes/19 - Arion Says You Lied.unity
+    path: Assets/Scenes/18 - Arion Says You Lied.unity
     guid: 81b93a06c00344763bd0786320045ef6
   - enabled: 1
-    path: Assets/Scenes/20 - Resolution A No Mercy.unity
+    path: Assets/Scenes/19 - Resolution A No Mercy.unity
     guid: a29567ba6335f4e1db77da97c5c7d65d
   - enabled: 1
-    path: Assets/Scenes/21 - END 1 Die.unity
+    path: Assets/Scenes/20 - END 1 Die.unity
     guid: e0a414dbacb354998aab3488db9be0b5
   - enabled: 1
-    path: Assets/Scenes/22 - Resolution B Repent.unity
+    path: Assets/Scenes/21 - Resolution B Repent.unity
     guid: a276c6f26220a4c2396ee7d97236a230
   - enabled: 1
-    path: Assets/Scenes/23 - END 2 Village.unity
+    path: Assets/Scenes/22 - END 2 Village.unity
     guid: bdb6043c90d924cdea805524af954383
   - enabled: 1
-    path: Assets/Scenes/24 - END 3 Imprisoned.unity
+    path: Assets/Scenes/23 - END 3 Imprisoned.unity
     guid: 45c8c8107e9f346cd9a203aacfbd73e7
   - enabled: 1
-    path: Assets/Scenes/25 - Resolution C Forgives.unity
+    path: Assets/Scenes/24 - Resolution C Forgives.unity
     guid: 4eee4866f98884088b6011d40d1a3675
   - enabled: 1
-    path: Assets/Scenes/26 - Travel 8A.unity
+    path: Assets/Scenes/25 - Travel 8A.unity
     guid: 1b035f2503ab74c088e50f4386ba2a6c
   - enabled: 1
-    path: Assets/Scenes/27 - Travel 8B.unity
+    path: Assets/Scenes/26 - Travel 8B.unity
     guid: 5d2943935b2714ba8a84dc028812de68
   - enabled: 1
-    path: Assets/Scenes/28 - Resolution D END 4.unity
+    path: Assets/Scenes/27 - Resolution D END 4.unity
     guid: 2a2b79c5cb8904d838b02f9ae79f5a62
   - enabled: 1
-    path: Assets/Scenes/29 - End of Valley END 5.unity
+    path: Assets/Scenes/28 - End of Valley END 5.unity
     guid: 976e7968edd8b4a7ca15dc1fac8c5fa6
   - enabled: 1
-    path: Assets/Scenes/30 - End of Story.unity
+    path: Assets/Scenes/29 - End of Story.unity
     guid: 008f0bf3b3dfb4d5aac436c6d24b3a57
   - enabled: 1
-    path: Assets/Scenes/31 - Credits.unity
+    path: Assets/Scenes/30 - Credits.unity
     guid: e91636d2fee254fdba7338a67a93fd7e
   m_configObjects: {}

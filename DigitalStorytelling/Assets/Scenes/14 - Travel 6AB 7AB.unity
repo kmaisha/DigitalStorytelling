@@ -507,11 +507,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010933194}
     m_Modifications:
-    - target: {fileID: 4122213069866473210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Name
-      value: 6B to 7B (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -566,6 +561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122213069866473210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Name
+      value: 6B to 7B (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -774,6 +774,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FISH COUNTER
       objectReference: {fileID: 0}
+    - target: {fileID: 7794614062595546868, guid: d4073e97024f5499986a80cf3079af95,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7794614062595546869, guid: d4073e97024f5499986a80cf3079af95,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -832,12 +837,12 @@ PrefabInstance:
     - target: {fileID: 7794614062595546869, guid: d4073e97024f5499986a80cf3079af95,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -614.10004
+      value: -12.1
       objectReference: {fileID: 0}
     - target: {fileID: 7794614062595546869, guid: d4073e97024f5499986a80cf3079af95,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -41.677765
+      value: -25
       objectReference: {fileID: 0}
     - target: {fileID: 7794614062595546869, guid: d4073e97024f5499986a80cf3079af95,
         type: 3}
@@ -906,11 +911,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010933194}
     m_Modifications:
-    - target: {fileID: 4122213069866473210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Name
-      value: 6A to 7A
-      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -965,6 +965,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122213069866473210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Name
+      value: 6A to 7A
       objectReference: {fileID: 0}
     - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -1570,11 +1575,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 4608898112841732290, guid: 0f78508a5d9104a669efcd256b4a3a05,
-        type: 3}
-      propertyPath: m_Name
-      value: Path 6A
-      objectReference: {fileID: 0}
     - target: {fileID: 8052978663155826399, guid: 0f78508a5d9104a669efcd256b4a3a05,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1585,16 +1585,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ChoiceSB
       objectReference: {fileID: 0}
-    - target: {fileID: 951395795862413247, guid: 0f78508a5d9104a669efcd256b4a3a05,
-        type: 3}
-      propertyPath: m_Text
-      value: '  > Over sandy pass'
-      objectReference: {fileID: 0}
-    - target: {fileID: 7806638677779838058, guid: 0f78508a5d9104a669efcd256b4a3a05,
-        type: 3}
-      propertyPath: m_Name
-      value: Path 6B
-      objectReference: {fileID: 0}
     - target: {fileID: 4350817552884161143, guid: 0f78508a5d9104a669efcd256b4a3a05,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1604,6 +1594,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ChoiceSB
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806638677779838058, guid: 0f78508a5d9104a669efcd256b4a3a05,
+        type: 3}
+      propertyPath: m_Name
+      value: Path 6B
+      objectReference: {fileID: 0}
+    - target: {fileID: 4608898112841732290, guid: 0f78508a5d9104a669efcd256b4a3a05,
+        type: 3}
+      propertyPath: m_Name
+      value: Path 6A
+      objectReference: {fileID: 0}
+    - target: {fileID: 951395795862413247, guid: 0f78508a5d9104a669efcd256b4a3a05,
+        type: 3}
+      propertyPath: m_Text
+      value: '  > Over sandy pass'
       objectReference: {fileID: 0}
     - target: {fileID: 6815302491290204951, guid: 0f78508a5d9104a669efcd256b4a3a05,
         type: 3}
@@ -1798,6 +1803,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 723262299632408928, guid: d30bc06381fe140ee82c1f2c8f88ca69,
+        type: 3}
+      propertyPath: m_Text
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d30bc06381fe140ee82c1f2c8f88ca69, type: 3}

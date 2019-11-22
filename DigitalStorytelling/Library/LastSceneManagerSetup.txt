@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/16 - Problem 2.unity
+- path: Assets/Scenes/19 - Resolution A No Mercy.unity
   isLoaded: 1
   isActive: 1

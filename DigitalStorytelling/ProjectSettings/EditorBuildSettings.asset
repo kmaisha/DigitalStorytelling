@@ -98,4 +98,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/30 - Credits.unity
     guid: e91636d2fee254fdba7338a67a93fd7e
+  - enabled: 1
+    path: Assets/Scenes/31 - Desert.unity
+    guid: eabc4f9392494483e872a4cbf26268b2
+  - enabled: 1
+    path: Assets/Scenes/32 - Ridge Path 4A.unity
+    guid: 360c2b0931e6d4ea3b069dd8016ea2c4
+  - enabled: 1
+    path: Assets/Scenes/33 - Grove Path 4B.unity
+    guid: 404030bf83ca84a649e65017432f55b4
   m_configObjects: {}

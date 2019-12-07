@@ -136,6 +136,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B 1 to 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 178961776}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 2032778455}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -191,16 +201,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 178961776}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 2032778455}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -224,6 +224,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 9D to 9C
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 840300483}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 450744419}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -280,20 +295,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 840300483}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 450744419}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -304,16 +314,6 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -459,6 +459,21 @@ PrefabInstance:
         I can\u2019t get rid of them, even if it is wrong for me to have taken them.\u201D\n
         \    Your mind thinks back to those days when your father would punish you
         in the fields. You flinch as you remember the sting of his hand. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
@@ -616,6 +631,21 @@ PrefabInstance:
         truth that has been buried in your mind. It mixes with the fearful emotions
         still lingering from what has just transpired, and you begin to cry."
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -746,6 +776,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B2 to 9B2
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 2032778455}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 110578309}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -801,16 +841,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 2032778455}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 110578309}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -1356,6 +1386,21 @@ PrefabInstance:
         me! When I saw those gems they had in the traveling shop outside my village,
         I saw my freedom sparkling back at me!\u201D"
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1540,6 +1585,21 @@ PrefabInstance:
         knowing what he must think. He huffs.\n     Arion: \u201CWhy did you lie to
         me?\u201D"
       objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7897789055890130341, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1626,6 +1686,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Choose 9C
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 536682822}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 450744419}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1681,16 +1751,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 536682822}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 450744419}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -1727,6 +1787,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B2 to 9B1
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 2032778455}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1126691904}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1782,16 +1852,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 2032778455}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 1126691904}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -1827,6 +1887,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: To End of Valley
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -1883,20 +1958,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -1907,16 +1977,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -2012,12 +2072,12 @@ PrefabInstance:
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 100
+      value: 1920
       objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 100
+      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
@@ -2049,6 +2109,16 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.46867502
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.41513726
+      objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161116, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_Color.r
@@ -2064,6 +2134,12 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.075694196
       objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161116, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 71748a696cda043bca2f9d02971f0d76,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cae8349683abe46ee8cdacd8d5f3a6f4, type: 3}
 --- !u!224 &759932165 stripped
@@ -2083,6 +2159,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: To Resolution C
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2139,20 +2230,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2163,16 +2249,6 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -2335,6 +2411,21 @@ PrefabInstance:
         just stares back at you unmoved. His dark eyes glisten like black coals.\n
         \    Arion: \u201CAre you really sure?\u201D"
       objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7897789055890130341, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -2421,6 +2512,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9D to 9B
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 840300483}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 178961776}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2476,20 +2582,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 840300483}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 178961776}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2500,16 +2601,6 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -2536,6 +2627,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 9D to 9A
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 840300483}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1450818037}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2592,20 +2698,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 840300483}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 1450818037}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2616,16 +2717,6 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -2785,6 +2876,21 @@ PrefabInstance:
         things that were once evil. Let us continue. The end is near.\u201D \n     You
         breathe a sigh of relief, glad to be spared the punishment you were used to.
         \n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
@@ -2962,6 +3068,51 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ClickNewScene
       objectReference: {fileID: 0}
+    - target: {fileID: 1765381315787749921, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381315787749921, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381315787749921, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381316730462322, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381316730462322, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381316730462322, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381317112372178, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381317112372178, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1765381317112372178, guid: e7b152e74613d4e60bfe19a0a04a7bf6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e7b152e74613d4e60bfe19a0a04a7bf6, type: 3}
 --- !u!1 &1092095339 stripped
@@ -3110,6 +3261,21 @@ PrefabInstance:
       value: "     You: \u201CI can\u2019t keep the gems...I could\u2019ve died back
         there\u2026\u201D\n     You shiver in fear, and your skin grows cold."
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -3146,6 +3312,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Choose 9D
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 536682822}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 840300483}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3201,16 +3377,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 536682822}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 840300483}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -3366,6 +3532,21 @@ PrefabInstance:
         their attractive sparkles, all represent your hopes and dreams. \n     But
         it was wrong. You couldn\u2019t steal your way to a better future.\n"
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -3401,6 +3582,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: To Resolution B
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -3457,20 +3653,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -3481,16 +3672,6 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 21
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -3640,6 +3821,21 @@ PrefabInstance:
         friend.\n     You: \u201CYes, I lied to you, but I don\u2019t really care.
         I did what I had to do, and that\u2019s all.\u201D \n"
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -3676,6 +3872,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9A to Resolution A
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 1450818037}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1092095341}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3731,16 +3937,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 1450818037}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 1092095341}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -4532,6 +4728,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B1 1 to 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 1126691904}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1333562602}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4587,16 +4793,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 1126691904}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 1333562602}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -4814,6 +5010,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B1 to Resolution B
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 1333562602}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4868,16 +5074,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 1333562602}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -4992,6 +5188,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9C to Resolution C 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 450744419}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1771905206928340740}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5047,20 +5258,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 450744419}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 1771905206928340740}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -5071,16 +5277,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -5119,6 +5315,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 9B22 to Resolution C 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 2123829479}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 1771905206928340740}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -5175,20 +5386,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 2123829479}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
-      objectReference: {fileID: 1771905206928340740}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -5199,16 +5405,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}
@@ -5398,6 +5594,21 @@ PrefabInstance:
         \u201CYes.\u201D\n     Arion: \u201CIt hurts, doesn\u2019t it?\u201D\n     You:
         \u201CYes...a lot...\u201D\n     Arion: \u201CThere is a way to fix it. You
         know what to do.\u201D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7897789055890130341, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
@@ -5773,6 +5984,21 @@ PrefabInstance:
         My father was so oppressive to me! When I saw those gems they had in the traveling
         shop outside my village, I saw my freedom sparkling back at me!\u201D"
       objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -5809,6 +6035,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: 9B2 1 to 2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 110578309}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 2123829479}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5864,16 +6100,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 110578309}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 2123829479}
     - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
@@ -6045,6 +6271,21 @@ PrefabInstance:
         I can see that your situation was a difficult one.\u201D\n     You look up
         at him, still shaking in fear. Luckily, he doesn\u2019t make a move towards
         you. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2411274122170119181, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1771762543516697159, guid: 1ba8bb557e5944d46bfedaf76538dd1d,
         type: 3}
@@ -6235,6 +6476,21 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 664311274}
+    - target: {fileID: 9126638282039004417, guid: ce7b856736614467a8e787a13b0ce48a,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9126638282039004417, guid: ce7b856736614467a8e787a13b0ce48a,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9126638282039004417, guid: ce7b856736614467a8e787a13b0ce48a,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce7b856736614467a8e787a13b0ce48a, type: 3}
 --- !u!1 &6668347383893627470 stripped

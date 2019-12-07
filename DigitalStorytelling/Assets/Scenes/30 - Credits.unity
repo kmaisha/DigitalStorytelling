@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -426,6 +426,21 @@ PrefabInstance:
       propertyPath: m_FontData.m_MinSize
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7897789055890130341, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -509,7 +524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -528,7 +543,7 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "Writers:\n Tara Langhorne\nMaisha Nabila\nYamira Castellano\n\nCoding:\nTara
-    Langhorne\n\n2D Art:\nMaisha Nabila"
+    Langhorne\n\n2D Art:\nMaisha Nabila\n\nBackgrounds:\nRose Wildes"
 --- !u!222 &756782750
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -617,12 +632,12 @@ PrefabInstance:
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 100
+      value: 1920
       objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 100
+      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
@@ -654,6 +669,21 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.42128092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.46727076
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107398706911161117, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.08818021
+      objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161116, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_Color.r
@@ -662,12 +692,12 @@ PrefabInstance:
     - target: {fileID: 2107398706911161116, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.8271488
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2107398706911161116, guid: cae8349683abe46ee8cdacd8d5f3a6f4,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.3820755
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cae8349683abe46ee8cdacd8d5f3a6f4, type: 3}
@@ -818,7 +848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -968,7 +998,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -986,8 +1016,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Kangaroovindaloo -\nKalgoorlie Wind 4\n\nBruno-ph - Sadness Cosmo\nJuanlopz08
-    - 11 Water Stream Water Fountain \nCalming Soothing Near Peaceful Present\nKausha
+  m_Text: "Bruno-ph - Sadness Cosmo\nJuanlopz08 - 11 Water Stream Water Fountain \nCalming
+    Soothing Near Peaceful Present\nEmotional Intro - Typos\nKalgoorlie Wind 4 - Kangaroovindaloo\nKausha
     - Ding\nMartysonic - Psycholand\nMiastodzwiekow - Debina-090613\nMinian89 - Bucket-Splash\nPictures
     of the Floating World - Elevator\nPsovod - Hope Music Sad Melody\nShadydave -
     Small Adventerers Music Loop\nSlaking-97 - Fairytale Harp Chimes\nTagirijus -
@@ -1050,7 +1080,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1757,7 +1787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:

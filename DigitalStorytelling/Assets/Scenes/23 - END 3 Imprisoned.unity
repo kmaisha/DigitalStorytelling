@@ -1290,16 +1290,6 @@ PrefabInstance:
       propertyPath: sceneNumber
       value: 29
       objectReference: {fileID: 0}
-    - target: {fileID: 1870622228785900157, guid: b303ebe96f3aa42079f68c6a8202e6ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 600144625}
-    - target: {fileID: 1870622228785900157, guid: b303ebe96f3aa42079f68c6a8202e6ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 94567444}
     - target: {fileID: 8417049221380691662, guid: b303ebe96f3aa42079f68c6a8202e6ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1385,6 +1375,16 @@ PrefabInstance:
       propertyPath: newText
       value: 
       objectReference: {fileID: 45153270}
+    - target: {fileID: 1870622228785900157, guid: b303ebe96f3aa42079f68c6a8202e6ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 600144625}
+    - target: {fileID: 1870622228785900157, guid: b303ebe96f3aa42079f68c6a8202e6ee,
+        type: 3}
+      propertyPath: newText
+      value: 
+      objectReference: {fileID: 94567444}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b303ebe96f3aa42079f68c6a8202e6ee, type: 3}
 --- !u!1 &1088712670 stripped
@@ -2043,6 +2043,17 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ClickNewScene
       objectReference: {fileID: 0}
+    - target: {fileID: 4053962403832809342, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4053962403832809342, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 8247e52d83313447997446f05fdb27ed,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf, type: 3}
 --- !u!1 &1812362487
@@ -2140,21 +2151,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: To Credits
       objectReference: {fileID: 0}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: pastText
-      value: 
-      objectReference: {fileID: 839802147}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: newText
-      value: 
-      objectReference: {fileID: 45153270}
-    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2858158720192963419, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2210,15 +2206,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: pastText
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+      objectReference: {fileID: 839802147}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
       propertyPath: newText
       value: 
+      objectReference: {fileID: 45153270}
+    - target: {fileID: 7870766758006433073, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3601718125942179934, guid: c9562d8d8eb1745f48fb1c180bd487ee,
         type: 3}
@@ -2229,6 +2230,16 @@ PrefabInstance:
         type: 3}
       propertyPath: sceneNumber
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: pastText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896652253266937210, guid: c9562d8d8eb1745f48fb1c180bd487ee,
+        type: 3}
+      propertyPath: newText
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9562d8d8eb1745f48fb1c180bd487ee, type: 3}

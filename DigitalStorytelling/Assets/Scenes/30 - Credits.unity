@@ -146,7 +146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 239, y: -35}
+  m_AnchoredPosition: {x: 239, y: -17.000004}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &351580479
@@ -389,7 +389,7 @@ PrefabInstance:
     - target: {fileID: 8661814509936946476, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -279
+      value: -261
       objectReference: {fileID: 0}
     - target: {fileID: 7930197534266035984, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
@@ -419,7 +419,7 @@ PrefabInstance:
     - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 30
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
@@ -441,6 +441,12 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2677158645261362601, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 8247e52d83313447997446f05fdb27ed,
+        type: 3}
     - target: {fileID: 7897789055890130341, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -459,12 +465,22 @@ PrefabInstance:
     - target: {fileID: 3642982182765997944, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 42
+      value: 77.99999
       objectReference: {fileID: 0}
     - target: {fileID: 3642982182765997944, guid: c92d7313c0276485784b280c66c68cfa,
         type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 234
+      objectReference: {fileID: 0}
+    - target: {fileID: 3140181611104930180, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -189.20001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4242437145108847087, guid: c92d7313c0276485784b280c66c68cfa,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -238.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c92d7313c0276485784b280c66c68cfa, type: 3}
@@ -508,7 +524,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2, y: -92}
+  m_AnchoredPosition: {x: 2, y: -65.3}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &756782749
@@ -542,8 +558,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Writers:\n Tara Langhorne\nMaisha Nabila\nYamira Castellano\n\nCoding:\nTara
-    Langhorne\n\n2D Art:\nMaisha Nabila\n\nBackgrounds:\nRose Wildes"
+  m_Text: "Writers / Editors:\n Tara Langhorne\nMaisha Nabila\nYamira Castellano\n\nCoder:\nTara
+    Langhorne\n\n2D Artist:\nMaisha Nabila\n\nBackground Designer, Music Locator:\nRose
+    Wildes"
 --- !u!222 &756782750
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -832,7 +849,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 306, y: 7.999999}
+  m_AnchoredPosition: {x: 306, y: 25.999996}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1274269142
@@ -910,7 +927,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 307, y: 96}
+  m_AnchoredPosition: {x: 307, y: 113.99999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1395859682
@@ -982,7 +999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 552, y: -167}
+  m_AnchoredPosition: {x: 552, y: -157.6}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1415448317
@@ -1017,11 +1034,11 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "Bruno-ph - Sadness Cosmo\nJuanlopz08 - 11 Water Stream Water Fountain \nCalming
-    Soothing Near Peaceful Present\nEmotional Intro - Typos\nKalgoorlie Wind 4 - Kangaroovindaloo\nKausha
-    - Ding\nMartysonic - Psycholand\nMiastodzwiekow - Debina-090613\nMinian89 - Bucket-Splash\nPictures
-    of the Floating World - Elevator\nPsovod - Hope Music Sad Melody\nShadydave -
-    Small Adventerers Music Loop\nSlaking-97 - Fairytale Harp Chimes\nTagirijus -
-    Night Theft\nToivo161 - Suspense Strings\n"
+    Soothing Near Peaceful Present\nTypos - Emotional Intro\nKangaroovindaloo - Kalgoorlie
+    Wind 4\nKausha - Ding\nMartysonic - Psycholand\nMiastodzwiekow - Debina-090613\nMinian89
+    - Bucket-Splash\nPictures of the Floating World - Elevator\nPsovod - Hope Music
+    Sad Melody\nShadydave - Small Adventerers Music Loop\nSlaking-97 - Fairytale Harp
+    Chimes\nTagirijus - Night Theft\nToivo161 - Suspense Strings\n"
 --- !u!222 &1415448318
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1064,7 +1081,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 494, y: -75}
+  m_AnchoredPosition: {x: 494, y: -65.600006}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1619626981
@@ -1098,8 +1115,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Music / FX Locator:\nRose Wildes\n\nAudio from Freesound.org \nand Free
-    Music Archive:\n"
+  m_Text: "Fonts:\nArial; Wintanceastre by David Kerkhoff\n\nAudio from Freesound.org
+    \nand Free Music Archive:\n"
 --- !u!222 &1619626982
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1142,7 +1159,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14, y: -51}
+  m_AnchoredPosition: {x: -14, y: -33.000004}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1630650047
@@ -1448,7 +1465,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -323, y: 94}
+  m_AnchoredPosition: {x: -323, y: 111.99999}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1727096475
@@ -1771,7 +1788,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 404, y: -172}
+  m_AnchoredPosition: {x: 404, y: -162.6}
   m_SizeDelta: {x: 590, y: 17.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2112597326

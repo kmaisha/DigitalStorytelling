@@ -2589,17 +2589,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ClickNewScene
       objectReference: {fileID: 0}
-    - target: {fileID: 4053962403832809342, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf,
-        type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 4053962403832809342, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf,
-        type: 3}
-      propertyPath: m_FontData.m_Font
-      value: 
-      objectReference: {fileID: 12800000, guid: 8247e52d83313447997446f05fdb27ed,
-        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2e6b7ebe5a304a1aa1eb144c57c93cf, type: 3}
 --- !u!224 &1837408191 stripped
